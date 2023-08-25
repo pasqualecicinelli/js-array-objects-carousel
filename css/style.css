@@ -1,0 +1,14 @@
+.card-img{
+    position: relative;
+}
+
+.card-title-description{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: white;
+}
+
+p{
+    font-size: 0.75rem;
+}

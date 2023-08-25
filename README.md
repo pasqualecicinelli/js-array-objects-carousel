@@ -33,12 +33,12 @@ Aggiungere bottoni di start/stop e di inversione del meccanismo di autoplay.
 
 ### Milestone 0:
 
-Costruisco un container con una card una card-img per inserire l'img
-fuori dalla card inserisco 2 bottoni 'Back' and 'Next'
+Costruisco un container con una card una card-img per inserire l'img, card-title e card-description
+fuori dalla card-img inserisco 2 bottoni 'Back' and 'Next'
 
 ### Milestone 1:
 
-Rimuovo gli elementi statici li aggiungo all'interno di due bottoni che al click attiveranno la funziona:
+Rimuovo gli elementi statici li aggiungo all'interno di due bottoni che al click attiveranno la funzione:
 - Back che tornera all'img prima con il titolo e testo annesso attraverso un decremento dell'index o
 - Next che andrà all'img successiva con il titolo e testo annesso attraverso un incremento dell'index
 
