@@ -1,14 +1,19 @@
-.card-img{
+.card-img {
     position: relative;
+    display: none;
 }
 
-.card-title-description{
+.active {
+    display: block;
+}
+
+.card-title-description {
     position: absolute;
     bottom: 0;
     right: 0;
     color: white;
 }
 
-p{
+p {
     font-size: 0.75rem;
 }
